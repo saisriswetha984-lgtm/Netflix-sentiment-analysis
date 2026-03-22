@@ -43,7 +43,7 @@ This project performs sentiment analysis on Netflix content descriptions using N
 
 ## 📷 Sample Output
 
-(Add your screenshot here later)
+![Output](screenshot.png)
 
 ---
 
